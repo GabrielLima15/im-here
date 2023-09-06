@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="assets/for-readme.md/1.jpg" alt="Descrição da imagem 1" width="300px" style="margin-right: 20px;">
+  <img src="assets/for-readme.md/2.jpg" alt="Descrição da imagem 2" width="300px">
+</div>
+
 ## 👨🏽‍💻 Stack
 
 - [x] ReactNative
